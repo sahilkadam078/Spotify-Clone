@@ -18,8 +18,3 @@ This project focuses on replicating Spotify’s clean design, responsive layout,
 - **CSS3**  
 
 ---
-
-## 📸 Screenshots  
-
-/screenshot_1.png
-/screenshot_2.png

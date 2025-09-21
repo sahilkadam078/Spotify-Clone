@@ -18,3 +18,9 @@ This project focuses on replicating Spotify’s clean design, responsive layout,
 - **CSS3**  
 
 ---
+
+## 📸 Project Screenshots
+
+![Home Page](./assets/homepage.png)
+*Main landing page showcasing featured products or playlists.*
+
